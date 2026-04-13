@@ -1,0 +1,12 @@
+This is a minimal SNS app.
+
+Strict rules:
+- No text input
+- No comments
+- No likes
+- No followers
+- No user profiles
+- No numbers visible to users
+
+Users only post an emotion level (-5 to +5) using abstract visuals.
+Never add explanatory text or extra features.
