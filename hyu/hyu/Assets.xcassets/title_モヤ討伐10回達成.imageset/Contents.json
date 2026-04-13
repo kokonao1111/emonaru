@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "しょうごうもやイベント - 1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "しょうごうもやイベント - 2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "しょうごうもやイベント - 3.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

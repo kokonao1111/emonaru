@@ -1,0 +1,854 @@
+[
+  {
+    "prefecture": "北海道",
+    "name": "札幌時計台",
+    "latitude": 43.0625537,
+    "longitude": 141.3536448
+  },
+  {
+    "prefecture": "北海道",
+    "name": "小樽運河",
+    "latitude": 43.2020231,
+    "longitude": 141.0006005
+  },
+  {
+    "prefecture": "北海道",
+    "name": "富良野・美瑛のラベンダー畑",
+    "latitude": 43.4172981,
+    "longitude": 142.4254766
+  },
+  {
+    "prefecture": "青森県",
+    "name": "弘前城",
+    "latitude": 40.6079291,
+    "longitude": 140.4636605
+  },
+  {
+    "prefecture": "青森県",
+    "name": "十和田湖・奥入瀬渓流",
+    "latitude": 40.5919977,
+    "longitude": 141.4079347
+  },
+  {
+    "prefecture": "青森県",
+    "name": "三内丸山遺跡",
+    "latitude": 40.8110007,
+    "longitude": 140.6975615
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "中尊寺",
+    "latitude": 39.000941,
+    "longitude": 141.1020699
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "平泉世界遺産",
+    "latitude": 38.9641897,
+    "longitude": 141.1202559
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "浄土ヶ浜",
+    "latitude": 39.6524503,
+    "longitude": 141.9787366
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "仙台城址",
+    "latitude": 38.2514593,
+    "longitude": 140.8563901
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "松島湾・瑞巌寺",
+    "latitude": 38.3721758,
+    "longitude": 141.0595579
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "鳴子温泉郷",
+    "latitude": 38.743466,
+    "longitude": 140.716093
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "角館の武家屋敷通り",
+    "latitude": 40.1907363,
+    "longitude": 140.7919952
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "田沢湖",
+    "latitude": 39.724837,
+    "longitude": 140.6632728
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "男鹿半島のなまはげ館",
+    "latitude": 39.9292411,
+    "longitude": 139.7665485
+  },
+  {
+    "prefecture": "山形県",
+    "name": "山寺の立石寺",
+    "latitude": 38.3125626,
+    "longitude": 140.4373997
+  },
+  {
+    "prefecture": "山形県",
+    "name": "蔵王連峰・御釜",
+    "latitude": 38.1364301,
+    "longitude": 140.4495359
+  },
+  {
+    "prefecture": "山形県",
+    "name": "銀山温泉",
+    "latitude": 38.5704194,
+    "longitude": 140.5300687
+  },
+  {
+    "prefecture": "福島県",
+    "name": "会津若松城（鶴ヶ城）",
+    "latitude": 37.4908631,
+    "longitude": 139.9279581
+  },
+  {
+    "prefecture": "福島県",
+    "name": "五色沼",
+    "latitude": 37.7406286,
+    "longitude": 140.2431745
+  },
+  {
+    "prefecture": "福島県",
+    "name": "大内宿",
+    "latitude": 37.3336291,
+    "longitude": 139.8606616
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "偕楽園",
+    "latitude": 36.375135,
+    "longitude": 140.453545
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "日立海浜公園",
+    "latitude": 36.4025277,
+    "longitude": 140.5943473
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "鹿島神宮",
+    "latitude": 35.9687708,
+    "longitude": 140.6315435
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "日光東照宮",
+    "latitude": 36.7576378,
+    "longitude": 139.59911
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "華厳の滝",
+    "latitude": 36.737944,
+    "longitude": 139.5040485
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "那須どうぶつ王国",
+    "latitude": 37.1320456,
+    "longitude": 140.0404064
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "草津温泉",
+    "latitude": 36.6208447,
+    "longitude": 138.5963928
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "富岡製糸場",
+    "latitude": 36.2554386,
+    "longitude": 138.8876423
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "尾瀬ヶ原",
+    "latitude": 36.9398423,
+    "longitude": 139.2415966
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "川越の蔵造りの街並み",
+    "latitude": 35.9237132,
+    "longitude": 139.4828468
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "長瀞ライン下り",
+    "latitude": 36.0921105,
+    "longitude": 139.1168334
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "秩父神社",
+    "latitude": 35.9975821,
+    "longitude": 139.0842446
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "東京ディズニーリゾート",
+    "latitude": 35.6308162,
+    "longitude": 139.8811452
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "鴨川シーワールド",
+    "latitude": 35.1152464,
+    "longitude": 140.1190315
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "成田山新勝寺",
+    "latitude": 35.7863311,
+    "longitude": 140.3172238
+  },
+  {
+    "prefecture": "東京都",
+    "name": "東京スカイツリー",
+    "latitude": 35.7100543,
+    "longitude": 139.8107141
+  },
+  {
+    "prefecture": "東京都",
+    "name": "浅草寺",
+    "latitude": 35.7134032,
+    "longitude": 139.7955265
+  },
+  {
+    "prefecture": "東京都",
+    "name": "明治神宮",
+    "latitude": 35.6748417,
+    "longitude": 139.6996266
+  },
+  {
+    "prefecture": "東京都",
+    "name": "東京タワー",
+    "latitude": 35.6584491,
+    "longitude": 139.745536
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "鎌倉大仏（高徳院）",
+    "latitude": 35.3194545,
+    "longitude": 139.5309218
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "鶴岡八幡宮",
+    "latitude": 35.3251836,
+    "longitude": 139.5561787
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "横浜・みなとみらい",
+    "latitude": 35.4656854,
+    "longitude": 139.6225042
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "佐渡金山",
+    "latitude": 38.0351723,
+    "longitude": 138.2409265
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "越後湯沢温泉エリア",
+    "latitude": 36.9359414,
+    "longitude": 138.8090456
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "弥彦山",
+    "latitude": 37.704725,
+    "longitude": 138.8090021
+  },
+  {
+    "prefecture": "富山県",
+    "name": "黒部ダム",
+    "latitude": 36.5666941,
+    "longitude": 137.6636386
+  },
+  {
+    "prefecture": "富山県",
+    "name": "立山黒部アルペンルート",
+    "latitude": 36.5771869,
+    "longitude": 137.4942412
+  },
+  {
+    "prefecture": "富山県",
+    "name": "五箇山合掌造り集落",
+    "latitude": 36.426177,
+    "longitude": 136.9355622
+  },
+  {
+    "prefecture": "石川県",
+    "name": "金沢城跡／兼六園",
+    "latitude": 36.5667352,
+    "longitude": 136.6604818
+  },
+  {
+    "prefecture": "石川県",
+    "name": "21世紀美術館",
+    "latitude": 36.561088,
+    "longitude": 136.659375
+  },
+  {
+    "prefecture": "石川県",
+    "name": "近江町市場",
+    "latitude": 36.564516,
+    "longitude": 136.6648286
+  },
+  {
+    "prefecture": "福井県",
+    "name": "東尋坊",
+    "latitude": 36.2378867,
+    "longitude": 136.1256526
+  },
+  {
+    "prefecture": "福井県",
+    "name": "恐竜博物館",
+    "latitude": 36.0823042,
+    "longitude": 136.5065708
+  },
+  {
+    "prefecture": "福井県",
+    "name": "越前海岸",
+    "latitude": 35.980852,
+    "longitude": 135.961081
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "富士山（河口湖周辺・五合目エリア）",
+    "latitude": 35.5130603,
+    "longitude": 138.7448243
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "忍野八海",
+    "latitude": 35.4602407,
+    "longitude": 138.8327032
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "甲府城跡",
+    "latitude": 35.5993824,
+    "longitude": 138.5489558
+  },
+  {
+    "prefecture": "長野県",
+    "name": "松本城",
+    "latitude": 36.2386353,
+    "longitude": 137.9688709
+  },
+  {
+    "prefecture": "長野県",
+    "name": "善光寺",
+    "latitude": 36.6614233,
+    "longitude": 138.1876577
+  },
+  {
+    "prefecture": "長野県",
+    "name": "上高地",
+    "latitude": 36.2539303,
+    "longitude": 137.6609406
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "白川郷合掌造り集落",
+    "latitude": 36.2573454,
+    "longitude": 136.9068317
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "高山の古い町並み",
+    "latitude": 36.1408745,
+    "longitude": 137.2596623
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "郡上八幡城",
+    "latitude": 35.7530831,
+    "longitude": 136.9614453
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "富士山（世界遺産・周辺エリア）",
+    "latitude": 35.3628384,
+    "longitude": 138.7307677
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "熱海温泉",
+    "latitude": 35.1025681,
+    "longitude": 139.0775665
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "三保の松原",
+    "latitude": 34.9947415,
+    "longitude": 138.5238018
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "名古屋城",
+    "latitude": 35.1853191,
+    "longitude": 136.899177
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "熱田神宮",
+    "latitude": 35.1254307,
+    "longitude": 136.9092535
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "犬山城",
+    "latitude": 35.3883304,
+    "longitude": 136.9392776
+  },
+  {
+    "prefecture": "三重県",
+    "name": "伊勢神宮",
+    "latitude": 34.4568901,
+    "longitude": 136.722978
+  },
+  {
+    "prefecture": "三重県",
+    "name": "熊野古道",
+    "latitude": 33.9483471,
+    "longitude": 136.1886085
+  },
+  {
+    "prefecture": "三重県",
+    "name": "鳥羽水族館",
+    "latitude": 34.4820148,
+    "longitude": 136.8453304
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "琵琶湖",
+    "latitude": 35.2486461,
+    "longitude": 136.0825575
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "彦根城",
+    "latitude": 35.2771013,
+    "longitude": 136.2517204
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "比叡山延暦寺",
+    "latitude": 35.0710355,
+    "longitude": 135.8655837
+  },
+  {
+    "prefecture": "京都府",
+    "name": "清水寺",
+    "latitude": 34.994303,
+    "longitude": 135.7844389
+  },
+  {
+    "prefecture": "京都府",
+    "name": "金閣寺（鹿苑寺）",
+    "latitude": 34.9350961,
+    "longitude": 135.7637241
+  },
+  {
+    "prefecture": "京都府",
+    "name": "伏見稲荷大社",
+    "latitude": 34.9675192,
+    "longitude": 135.7797101
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "大阪城",
+    "latitude": 34.6873735,
+    "longitude": 135.5258555
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "道頓堀",
+    "latitude": 34.6690306,
+    "longitude": 135.5015715
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "ユニバーサル・スタジオ・ジャパン",
+    "latitude": 34.6656393,
+    "longitude": 135.4324527
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "姫路城",
+    "latitude": 34.8393313,
+    "longitude": 134.69402
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "有馬温泉",
+    "latitude": 34.7992564,
+    "longitude": 135.2462748
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "神戸・北野異人館街",
+    "latitude": 34.7012602,
+    "longitude": 135.1897321
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "東大寺",
+    "latitude": 34.6882437,
+    "longitude": 135.8397568
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "奈良公園",
+    "latitude": 34.6829008,
+    "longitude": 135.8545975
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "吉野山",
+    "latitude": 34.3604611,
+    "longitude": 135.867088
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "熊野古道",
+    "latitude": 34.0770299,
+    "longitude": 135.1754914
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "那智の滝",
+    "latitude": 34.2264879,
+    "longitude": 135.1672869
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "高野山",
+    "latitude": 34.212105,
+    "longitude": 135.582004
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "鳥取砂丘",
+    "latitude": 35.5412997,
+    "longitude": 134.2277259
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "白兎神社",
+    "latitude": 35.5241947,
+    "longitude": 134.114756
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "倉吉の白壁土蔵群",
+    "latitude": 35.4313456,
+    "longitude": 133.8248245
+  },
+  {
+    "prefecture": "島根県",
+    "name": "出雲大社",
+    "latitude": 35.399803,
+    "longitude": 132.6851508
+  },
+  {
+    "prefecture": "島根県",
+    "name": "石見銀山遺跡",
+    "latitude": 35.113757,
+    "longitude": 132.445335
+  },
+  {
+    "prefecture": "島根県",
+    "name": "松江城",
+    "latitude": 35.4751405,
+    "longitude": 133.0507625
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "後楽園",
+    "latitude": 34.66633,
+    "longitude": 133.9373948
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "岡山城",
+    "latitude": 34.6651763,
+    "longitude": 133.9360446
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "倉敷美観地区",
+    "latitude": 34.596525,
+    "longitude": 133.7725863
+  },
+  {
+    "prefecture": "広島県",
+    "name": "広島平和記念公園・原爆ドーム",
+    "latitude": 34.3931715,
+    "longitude": 132.4523008
+  },
+  {
+    "prefecture": "広島県",
+    "name": "宮島（厳島神社）",
+    "latitude": 34.2965418,
+    "longitude": 132.3190077
+  },
+  {
+    "prefecture": "広島県",
+    "name": "呉の大和ミュージアム",
+    "latitude": 34.2411847,
+    "longitude": 132.5558799
+  },
+  {
+    "prefecture": "山口県",
+    "name": "秋吉台カルスト台地",
+    "latitude": 34.2341672,
+    "longitude": 131.3060432
+  },
+  {
+    "prefecture": "山口県",
+    "name": "瑠璃光寺五重塔",
+    "latitude": 34.1901755,
+    "longitude": 131.4729196
+  },
+  {
+    "prefecture": "山口県",
+    "name": "角島大橋",
+    "latitude": 34.3523746,
+    "longitude": 130.8872191
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "阿波おどり会館",
+    "latitude": 34.0701944,
+    "longitude": 134.5450768
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "渦の道",
+    "latitude": 34.2361791,
+    "longitude": 134.6421065
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "鳴門公園（大鳴門橋架橋記念公園）",
+    "latitude": 34.2365132,
+    "longitude": 134.6410668
+  },
+  {
+    "prefecture": "香川県",
+    "name": "栗林公園",
+    "latitude": 34.3294971,
+    "longitude": 134.0439264
+  },
+  {
+    "prefecture": "香川県",
+    "name": "金刀比羅宮",
+    "latitude": 34.1839885,
+    "longitude": 133.8093897
+  },
+  {
+    "prefecture": "香川県",
+    "name": "小豆島・寒霞渓",
+    "latitude": 34.484731,
+    "longitude": 134.305919
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "道後温泉",
+    "latitude": 33.8504258,
+    "longitude": 132.7850817
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "松山城",
+    "latitude": 33.845651,
+    "longitude": 132.7657463
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "しまなみ海道",
+    "latitude": 34.2579535,
+    "longitude": 133.0554965
+  },
+  {
+    "prefecture": "高知県",
+    "name": "高知城",
+    "latitude": 33.560691,
+    "longitude": 133.5314588
+  },
+  {
+    "prefecture": "高知県",
+    "name": "桂浜",
+    "latitude": 33.4971075,
+    "longitude": 133.5744564
+  },
+  {
+    "prefecture": "高知県",
+    "name": "四万十川",
+    "latitude": 33.1930362,
+    "longitude": 132.9695409
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "太宰府天満宮",
+    "latitude": 33.5196499,
+    "longitude": 130.5329934
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "福岡タワー",
+    "latitude": 33.5932744,
+    "longitude": 130.3514862
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "大濠公園",
+    "latitude": 33.5861213,
+    "longitude": 130.3763612
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "佐賀城跡",
+    "latitude": 33.3057911,
+    "longitude": 130.2459879
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "虹の松原",
+    "latitude": 33.4410429,
+    "longitude": 130.0164662
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "吉野ヶ里歴史公園",
+    "latitude": 33.3270916,
+    "longitude": 130.3842637
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "グラバー園",
+    "latitude": 32.7333666,
+    "longitude": 129.869055
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "稲佐山夜景",
+    "latitude": 32.753426,
+    "longitude": 129.8493382
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "長崎原爆資料館・平和公園",
+    "latitude": 32.7727742,
+    "longitude": 129.8643791
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "熊本城",
+    "latitude": 32.8052691,
+    "longitude": 130.7054642
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "阿蘇山",
+    "latitude": 32.8827019,
+    "longitude": 131.0947404
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "黒川温泉",
+    "latitude": 33.0777131,
+    "longitude": 131.1419381
+  },
+  {
+    "prefecture": "大分県",
+    "name": "別府温泉",
+    "latitude": 33.2784567,
+    "longitude": 131.5055897
+  },
+  {
+    "prefecture": "大分県",
+    "name": "湯布院",
+    "latitude": 33.2519414,
+    "longitude": 131.3547042
+  },
+  {
+    "prefecture": "大分県",
+    "name": "高崎山自然動物園",
+    "latitude": 33.2583853,
+    "longitude": 131.530798
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "高千穂峡",
+    "latitude": 32.7017851,
+    "longitude": 131.300939
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "日南海岸",
+    "latitude": 31.7768245,
+    "longitude": 131.4821614
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "青島神社",
+    "latitude": 31.8044125,
+    "longitude": 131.4750916
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "屋久島",
+    "latitude": 30.347925,
+    "longitude": 130.5244832
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "桜島",
+    "latitude": 31.5805744,
+    "longitude": 130.657984
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "指宿温泉",
+    "latitude": 31.2526556,
+    "longitude": 130.655128
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "美ら海水族館",
+    "latitude": 26.6943689,
+    "longitude": 127.878038
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "首里城",
+    "latitude": 26.2170014,
+    "longitude": 127.7193727
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "今帰仁城跡",
+    "latitude": 26.6915191,
+    "longitude": 127.9291442
+  }
+]

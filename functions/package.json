@@ -1,0 +1,15 @@
+{
+  "name": "functions",
+  "private": true,
+  "main": "index.js",
+  "engines": {
+    "node": "20"
+  },
+  "dependencies": {
+    "firebase-admin": "latest",
+    "firebase-functions": "latest"
+  },
+  "devDependencies": {
+    "firebase-tools": "^15.5.1"
+  }
+}

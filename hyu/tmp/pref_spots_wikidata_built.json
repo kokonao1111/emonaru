@@ -1,0 +1,989 @@
+[
+  {
+    "prefecture": "北海道",
+    "name": "五稜郭",
+    "latitude": 41.796944,
+    "longitude": 140.756944,
+    "sitelinks": 26
+  },
+  {
+    "prefecture": "北海道",
+    "name": "真駒内屋外競技場",
+    "latitude": 42.996388888,
+    "longitude": 141.343055555,
+    "sitelinks": 18
+  },
+  {
+    "prefecture": "北海道",
+    "name": "札幌市時計台",
+    "latitude": 43.062602,
+    "longitude": 141.353681,
+    "sitelinks": 12
+  },
+  {
+    "prefecture": "青森県",
+    "name": "キリストの墓",
+    "latitude": 40.453888888,
+    "longitude": 141.148611111,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "青森県",
+    "name": "岩木山神社",
+    "latitude": 40.61606111,
+    "longitude": 140.36545556,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "青森県",
+    "name": "津軽海峡",
+    "latitude": 41.33333,
+    "longitude": 140.33333,
+    "sitelinks": 66
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "平泉",
+    "latitude": 38.98861111,
+    "longitude": 141.11027778,
+    "sitelinks": 27
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "観自在王院跡",
+    "latitude": 38.988517,
+    "longitude": 141.110333,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "岩手山",
+    "latitude": 39.8525,
+    "longitude": 141.00111111,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "仙台スタジアム",
+    "latitude": 38.319167,
+    "longitude": 140.881944,
+    "sitelinks": 15
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "宮城球場",
+    "latitude": 38.25620556,
+    "longitude": 140.9025,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "鹽竈神社",
+    "latitude": 38.31875,
+    "longitude": 141.012555555,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "秋田市八橋運動公園陸上競技場",
+    "latitude": 39.720833,
+    "longitude": 140.095556,
+    "sitelinks": 13
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "鳥海山",
+    "latitude": 39.099166666,
+    "longitude": 140.048888888,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "八郎潟",
+    "latitude": 39.913888888,
+    "longitude": 140.020833333,
+    "sitelinks": 19
+  },
+  {
+    "prefecture": "山形県",
+    "name": "山形県総合運動公園陸上競技場",
+    "latitude": 38.336558,
+    "longitude": 140.378558,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "山形県",
+    "name": "鳥海山大物忌神社",
+    "latitude": 39.097694444,
+    "longitude": 140.048694444,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "山形県",
+    "name": "月山神社",
+    "latitude": 38.548695,
+    "longitude": 140.026962,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "福島県",
+    "name": "福島県営あづま球場",
+    "latitude": 37.721442,
+    "longitude": 140.363474,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "福島県",
+    "name": "阿武隈川",
+    "latitude": 37.1619,
+    "longitude": 139.9748,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "福島県",
+    "name": "阿賀野川",
+    "latitude": 37.9624,
+    "longitude": 139.1289,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "鹿島神宮",
+    "latitude": 35.968784,
+    "longitude": 140.631538,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "合氣神社",
+    "latitude": 36.294222222,
+    "longitude": 140.281361111,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "常磐神社",
+    "latitude": 36.3746,
+    "longitude": 140.456,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "日光の社寺",
+    "latitude": 36.7565,
+    "longitude": 139.5994,
+    "sitelinks": 29
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "日光二荒山神社",
+    "latitude": 36.758949,
+    "longitude": 139.596425,
+    "sitelinks": 17
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "栃木県グリーンスタジアム",
+    "latitude": 36.556667,
+    "longitude": 139.986667,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "群馬県立敷島公園県営陸上競技場",
+    "latitude": 36.411613,
+    "longitude": 139.053258,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "信濃川",
+    "latitude": 37.388056,
+    "longitude": 138.810833,
+    "sitelinks": 41
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "利根川",
+    "latitude": 35.745972222,
+    "longitude": 140.852055555,
+    "sitelinks": 35
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "氷川神社",
+    "latitude": 35.917037,
+    "longitude": 139.629461,
+    "sitelinks": 15
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "ジョン・レノン・ミュージアム",
+    "latitude": 35.89488889,
+    "longitude": 139.63083333,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "利根川",
+    "latitude": 35.745972222,
+    "longitude": 140.852055555,
+    "sitelinks": 35
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "東京ディズニーランド",
+    "latitude": 35.632777777,
+    "longitude": 139.880555555,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "千葉マリンスタジアム",
+    "latitude": 35.645239,
+    "longitude": 140.030922,
+    "sitelinks": 13
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "香取神宮",
+    "latitude": 35.886206,
+    "longitude": 140.528518,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "東京都",
+    "name": "東京タワー",
+    "latitude": 35.658611111,
+    "longitude": 139.745555555,
+    "sitelinks": 68
+  },
+  {
+    "prefecture": "東京都",
+    "name": "靖国神社",
+    "latitude": 35.693958333,
+    "longitude": 139.742691666,
+    "sitelinks": 47
+  },
+  {
+    "prefecture": "東京都",
+    "name": "江戸城",
+    "latitude": 35.688322222,
+    "longitude": 139.754388888,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "横浜国際総合競技場",
+    "latitude": 35.510044,
+    "longitude": 139.606247,
+    "sitelinks": 43
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "横浜スタジアム",
+    "latitude": 35.443428,
+    "longitude": 139.6401,
+    "sitelinks": 24
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "平塚競技場",
+    "latitude": 35.343608,
+    "longitude": 139.341263,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "新潟スタジアム",
+    "latitude": 37.8825,
+    "longitude": 139.059166666,
+    "sitelinks": 29
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "信濃川",
+    "latitude": 37.388056,
+    "longitude": 138.810833,
+    "sitelinks": 41
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "佐渡島",
+    "latitude": 38.0675,
+    "longitude": 138.3975,
+    "sitelinks": 29
+  },
+  {
+    "prefecture": "富山県",
+    "name": "高瀬神社",
+    "latitude": 36.571437,
+    "longitude": 136.948291,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "富山県",
+    "name": "立山",
+    "latitude": 36.575833333,
+    "longitude": 137.619722222,
+    "sitelinks": 24
+  },
+  {
+    "prefecture": "富山県",
+    "name": "称名滝",
+    "latitude": 36.575277777,
+    "longitude": 137.523333333,
+    "sitelinks": 16
+  },
+  {
+    "prefecture": "石川県",
+    "name": "尾山神社",
+    "latitude": 36.566388888,
+    "longitude": 136.655277777,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "石川県",
+    "name": "白山比咩神社",
+    "latitude": 36.434886,
+    "longitude": 136.635835,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "石川県",
+    "name": "豊国神社",
+    "latitude": 36.569611,
+    "longitude": 136.673472,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "福井県",
+    "name": "大野城",
+    "latitude": 35.986588,
+    "longitude": 136.483042,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "福井県",
+    "name": "一筆啓上 日本一短い手紙の館",
+    "latitude": 36.153656,
+    "longitude": 136.274833,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "福井県",
+    "name": "氣比神宮",
+    "latitude": 35.654716,
+    "longitude": 136.074733,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "富士山",
+    "latitude": 35.360555555,
+    "longitude": 138.7275,
+    "sitelinks": 143
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "武田神社",
+    "latitude": 35.68666667,
+    "longitude": 138.5775,
+    "sitelinks": 13
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "山梨県小瀬スポーツ公園陸上競技場",
+    "latitude": 35.622376,
+    "longitude": 138.589756,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "長野県",
+    "name": "上高地",
+    "latitude": 36.246969444,
+    "longitude": 137.633333333,
+    "sitelinks": 18
+  },
+  {
+    "prefecture": "長野県",
+    "name": "諏訪大社",
+    "latitude": 36.07527778,
+    "longitude": 138.09138889,
+    "sitelinks": 17
+  },
+  {
+    "prefecture": "長野県",
+    "name": "志賀高原",
+    "latitude": 36.7,
+    "longitude": 138.491666666,
+    "sitelinks": 17
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "岐阜メモリアルセンター長良川競技場",
+    "latitude": 35.441337,
+    "longitude": 136.766052,
+    "sitelinks": 12
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "伊奈波神社",
+    "latitude": 35.427227,
+    "longitude": 136.770815,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "御嶽山",
+    "latitude": 35.892777777,
+    "longitude": 137.480277777,
+    "sitelinks": 42
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "富士山",
+    "latitude": 35.360555555,
+    "longitude": 138.7275,
+    "sitelinks": 143
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "静岡県小笠山総合運動公園スタジアム",
+    "latitude": 34.743222,
+    "longitude": 137.970503,
+    "sitelinks": 28
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "ヤマハスタジアム",
+    "latitude": 34.725217,
+    "longitude": 137.875006,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "熱田神宮",
+    "latitude": 35.126509,
+    "longitude": 136.908698,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "名古屋市瑞穂公園陸上競技場",
+    "latitude": 35.122721,
+    "longitude": 136.944301,
+    "sitelinks": 15
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "長良川",
+    "latitude": 35.026388888,
+    "longitude": 136.718055555,
+    "sitelinks": 26
+  },
+  {
+    "prefecture": "三重県",
+    "name": "伊勢神宮",
+    "latitude": 34.455,
+    "longitude": 136.725833333,
+    "sitelinks": 43
+  },
+  {
+    "prefecture": "三重県",
+    "name": "夫婦岩",
+    "latitude": 34.509444444,
+    "longitude": 136.788333333,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "三重県",
+    "name": "熊野速玉大社",
+    "latitude": 33.732086,
+    "longitude": 135.983605,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "日吉大社",
+    "latitude": 35.071524,
+    "longitude": 135.862219,
+    "sitelinks": 11
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "多賀大社",
+    "latitude": 35.225127,
+    "longitude": 136.291005,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "天孫神社",
+    "latitude": 35.0057,
+    "longitude": 135.867,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "京都府",
+    "name": "伏見稲荷大社",
+    "latitude": 34.967202,
+    "longitude": 135.773386,
+    "sitelinks": 40
+  },
+  {
+    "prefecture": "京都府",
+    "name": "賀茂別雷神社",
+    "latitude": 35.060507,
+    "longitude": 135.752752,
+    "sitelinks": 27
+  },
+  {
+    "prefecture": "京都府",
+    "name": "八坂神社",
+    "latitude": 35.003645,
+    "longitude": 135.778529,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "大阪市長居陸上競技場",
+    "latitude": 34.613889,
+    "longitude": 135.518333,
+    "sitelinks": 33
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "大阪ドーム",
+    "latitude": 34.6693,
+    "longitude": 135.476102777,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "住吉大社",
+    "latitude": 34.612513,
+    "longitude": 135.492934,
+    "sitelinks": 18
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "鳴門の渦潮",
+    "latitude": 34.238333333,
+    "longitude": 134.651388888,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "神戸総合運動公園ユニバー記念競技場",
+    "latitude": 34.682139,
+    "longitude": 135.080272,
+    "sitelinks": 16
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "生田神社",
+    "latitude": 34.694766,
+    "longitude": 135.190691,
+    "sitelinks": 11
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "春日大社",
+    "latitude": 34.681336,
+    "longitude": 135.848348,
+    "sitelinks": 27
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "吉野水分神社",
+    "latitude": 34.353906,
+    "longitude": 135.873073,
+    "sitelinks": 15
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "大神神社",
+    "latitude": 34.529098,
+    "longitude": 135.853054,
+    "sitelinks": 12
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "熊野速玉大社",
+    "latitude": 33.732086,
+    "longitude": 135.983605,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "熊野本宮大社",
+    "latitude": 33.840401,
+    "longitude": 135.773553,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "熊野那智大社",
+    "latitude": 33.66856835,
+    "longitude": 135.8904934,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "鳥取市営サッカー場",
+    "latitude": 35.458333,
+    "longitude": 134.221667,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "倭文神社",
+    "latitude": 35.490241,
+    "longitude": 133.902957,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "宇倍神社",
+    "latitude": 35.480787,
+    "longitude": 134.269066,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "島根県",
+    "name": "出雲大社",
+    "latitude": 35.401944444,
+    "longitude": 132.685444444,
+    "sitelinks": 30
+  },
+  {
+    "prefecture": "島根県",
+    "name": "佐太神社",
+    "latitude": 35.508917,
+    "longitude": 133.006444,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "島根県",
+    "name": "日御碕神社",
+    "latitude": 35.42958056,
+    "longitude": 132.62936111,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "岡山県総合グラウンド陸上競技場",
+    "latitude": 34.680714,
+    "longitude": 133.919494,
+    "sitelinks": 11
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "吉備津神社",
+    "latitude": 34.670688,
+    "longitude": 133.850834,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "岡山県立博物館",
+    "latitude": 34.668333,
+    "longitude": 133.933889,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "広島県",
+    "name": "厳島神社",
+    "latitude": 34.29577,
+    "longitude": 132.320105,
+    "sitelinks": 65
+  },
+  {
+    "prefecture": "広島県",
+    "name": "広島城",
+    "latitude": 34.40275,
+    "longitude": 132.459027777,
+    "sitelinks": 31
+  },
+  {
+    "prefecture": "広島県",
+    "name": "原爆の子の像",
+    "latitude": 34.394142,
+    "longitude": 132.452776,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "山口県",
+    "name": "維新百年記念公園陸上競技場",
+    "latitude": 34.154444,
+    "longitude": 131.4375,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "山口県",
+    "name": "関門海峡",
+    "latitude": 33.946944444,
+    "longitude": 130.946666666,
+    "sitelinks": 34
+  },
+  {
+    "prefecture": "山口県",
+    "name": "阿武火山群",
+    "latitude": 34.5,
+    "longitude": 131.6,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "鳴門の渦潮",
+    "latitude": 34.238333333,
+    "longitude": 134.651388888,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "徳島県鳴門総合運動公園陸上競技場",
+    "latitude": 34.16821,
+    "longitude": 134.617839,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "名頃",
+    "latitude": 33.85591,
+    "longitude": 134.019827,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "香川県",
+    "name": "金刀比羅宮",
+    "latitude": 34.1842578,
+    "longitude": 133.8096142,
+    "sitelinks": 12
+  },
+  {
+    "prefecture": "香川県",
+    "name": "香川県立丸亀競技場",
+    "latitude": 34.261632,
+    "longitude": 133.78592,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "香川県",
+    "name": "香川県立亀鶴公園",
+    "latitude": 34.252906,
+    "longitude": 134.183367,
+    "sitelinks": 4
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "下灘駅",
+    "latitude": 33.6551,
+    "longitude": 132.5892,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "愛媛県総合運動公園陸上競技場",
+    "latitude": 33.768178,
+    "longitude": 132.797594,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "大山祇神社",
+    "latitude": 34.247887,
+    "longitude": 133.005712,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "高知県",
+    "name": "土佐神社",
+    "latitude": 33.592664,
+    "longitude": 133.577038,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "高知県",
+    "name": "小村神社",
+    "latitude": 33.54327778,
+    "longitude": 133.393,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "高知県",
+    "name": "高知県立高知城歴史博物館",
+    "latitude": 33.560111111,
+    "longitude": 133.534027777,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "宗像大社",
+    "latitude": 33.830833,
+    "longitude": 130.514167,
+    "sitelinks": 11
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "筥崎宮",
+    "latitude": 33.614749,
+    "longitude": 130.422887,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "高良大社",
+    "latitude": 33.301583,
+    "longitude": 130.565482,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "鳥栖スタジアム",
+    "latitude": 33.371944,
+    "longitude": 130.520278,
+    "sitelinks": 16
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "唐津城",
+    "latitude": 33.453539,
+    "longitude": 129.978194,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "祐徳稲荷神社",
+    "latitude": 33.073611111,
+    "longitude": 130.108333333,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "グラバー園",
+    "latitude": 32.73444444,
+    "longitude": 129.86888889,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "山王神社",
+    "latitude": 32.7675,
+    "longitude": 129.86861111,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "九十九島",
+    "latitude": 33.16666667,
+    "longitude": 129.6,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "阿蘇神社",
+    "latitude": 32.94777778,
+    "longitude": 131.11597222,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "青井阿蘇神社",
+    "latitude": 32.21333333,
+    "longitude": 130.75277778,
+    "sitelinks": 7
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "八代宮",
+    "latitude": 32.5077,
+    "longitude": 130.6,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "大分県",
+    "name": "大分スポーツ公園総合競技場",
+    "latitude": 33.200556,
+    "longitude": 131.6575,
+    "sitelinks": 27
+  },
+  {
+    "prefecture": "大分県",
+    "name": "宇佐神宮",
+    "latitude": 33.526019,
+    "longitude": 131.374627,
+    "sitelinks": 15
+  },
+  {
+    "prefecture": "大分県",
+    "name": "西寒多神社",
+    "latitude": 33.172943,
+    "longitude": 131.598277,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "都農神社",
+    "latitude": 32.263132,
+    "longitude": 131.558668,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "綾城",
+    "latitude": 32.003218,
+    "longitude": 131.249113,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "高千穂神社",
+    "latitude": 32.706667,
+    "longitude": 131.301667,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "照国神社",
+    "latitude": 31.59480556,
+    "longitude": 130.55008333,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "枚聞神社",
+    "latitude": 31.207946,
+    "longitude": 130.539631,
+    "sitelinks": 6
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "屋久島",
+    "latitude": 30.358611111,
+    "longitude": 130.528611111,
+    "sitelinks": 60
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "首里城",
+    "latitude": 26.217030555,
+    "longitude": 127.719475,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "斎場御嶽",
+    "latitude": 26.173333,
+    "longitude": 127.826667,
+    "sitelinks": 11
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "沖縄県立博物館・美術館",
+    "latitude": 26.226593,
+    "longitude": 127.694103,
+    "sitelinks": 11
+  }
+]

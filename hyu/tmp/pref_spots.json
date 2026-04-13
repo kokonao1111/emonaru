@@ -1,0 +1,989 @@
+[
+  {
+    "prefecture": "北海道",
+    "name": "恵山道立自然公園",
+    "latitude": 41.815,
+    "longitude": 141.173333333,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "北海道",
+    "name": "天塩岳道立自然公園",
+    "latitude": 43.9875,
+    "longitude": 142.860555555,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "北海道",
+    "name": "安平町鹿公園",
+    "latitude": 42.87375,
+    "longitude": 141.806444444,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "青森県",
+    "name": "金平成園",
+    "latitude": 40.64341667,
+    "longitude": 140.5925,
+    "sitelinks": 4
+  },
+  {
+    "prefecture": "青森県",
+    "name": "Chausuyama Kōen",
+    "latitude": 40.516388888,
+    "longitude": 140.573333333,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "青森県",
+    "name": "Q49481665",
+    "latitude": 40.548333333,
+    "longitude": 140.544444444,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "Q49497547",
+    "latitude": 39.435,
+    "longitude": 141.057222222,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "Q49501388",
+    "latitude": 39.408611111,
+    "longitude": 141.097777777,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "Q49568851",
+    "latitude": 39.004444444,
+    "longitude": 141.631111111,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "Q49530331",
+    "latitude": 38.736388888,
+    "longitude": 140.698333333,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "Q49535697",
+    "latitude": 38.723055555,
+    "longitude": 140.736666666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "Q49555472",
+    "latitude": 38.367222222,
+    "longitude": 141.053333333,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "大館城",
+    "latitude": 40.2725,
+    "longitude": 140.564722222,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "秋田県立男鹿水族館",
+    "latitude": 39.942167,
+    "longitude": 139.704583,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "松峰山信仰遺跡群",
+    "latitude": 40.314722222,
+    "longitude": 140.528333333,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "山形県",
+    "name": "Arao Kohan Kōen",
+    "latitude": 38.792222222,
+    "longitude": 140.668611111,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "山形県",
+    "name": "Q49509718",
+    "latitude": 38.813611111,
+    "longitude": 140.514166666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "山形県",
+    "name": "大山自然公園",
+    "latitude": 38.358472222,
+    "longitude": 140.180722222,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "福島県",
+    "name": "福島市",
+    "latitude": 37.760805555,
+    "longitude": 140.474722222,
+    "sitelinks": 84
+  },
+  {
+    "prefecture": "福島県",
+    "name": "郡山市",
+    "latitude": 37.4003,
+    "longitude": 140.3597,
+    "sitelinks": 57
+  },
+  {
+    "prefecture": "福島県",
+    "name": "いわき市",
+    "latitude": 37.0505,
+    "longitude": 140.887722222,
+    "sitelinks": 56
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "宇留野城",
+    "latitude": 36.540575,
+    "longitude": 140.423794444,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "部垂城",
+    "latitude": 36.551805555,
+    "longitude": 140.415361111,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "水戸市",
+    "latitude": 36.365833333,
+    "longitude": 140.47125,
+    "sitelinks": 67
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "出流原遺跡",
+    "latitude": 36.364183333,
+    "longitude": 139.540508333,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "松方別邸",
+    "latitude": 36.929722222,
+    "longitude": 139.939166666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "宇都宮市",
+    "latitude": 36.555111111,
+    "longitude": 139.882555555,
+    "sitelinks": 65
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "入野遺跡",
+    "latitude": 36.249527777,
+    "longitude": 139.004833333,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "群馬鉄山",
+    "latitude": 36.653083,
+    "longitude": 138.597083,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "西鹿田中島遺跡",
+    "latitude": 36.406944444,
+    "longitude": 139.256666666,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "宮代町総合運動公園",
+    "latitude": 36.054333333,
+    "longitude": 139.697222222,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "大和田公園",
+    "latitude": 35.921944444,
+    "longitude": 139.641666666,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "幡羅官衙遺跡群",
+    "latitude": 36.192194444,
+    "longitude": 139.327472222,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "墨古沢遺跡",
+    "latitude": 35.708888888,
+    "longitude": 140.286111111,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "鉈切洞穴遺跡",
+    "latitude": 34.972527777,
+    "longitude": 139.802077777,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "明治天皇駐蹕之処の碑",
+    "latitude": 35.711611111,
+    "longitude": 140.049055555,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "東京都",
+    "name": "井の頭自然文化園",
+    "latitude": 35.700833,
+    "longitude": 139.57275,
+    "sitelinks": 5
+  },
+  {
+    "prefecture": "東京都",
+    "name": "東京芸術大学大学美術館",
+    "latitude": 35.884352777,
+    "longitude": 140.114880555,
+    "sitelinks": 4
+  },
+  {
+    "prefecture": "東京都",
+    "name": "田端遺跡",
+    "latitude": 35.601008,
+    "longitude": 139.363566,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "曽我梅林",
+    "latitude": 35.299444444,
+    "longitude": 139.193055555,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "神奈川県立真鶴半島自然公園",
+    "latitude": 35.146,
+    "longitude": 139.14819444,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "田浦梅の里",
+    "latitude": 35.286861111,
+    "longitude": 139.632472222,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "三仏生遺跡",
+    "latitude": 37.342611111,
+    "longitude": 138.817611111,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "大平遺跡",
+    "latitude": 37.251305555,
+    "longitude": 138.787305555,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "新潟市",
+    "latitude": 37.916194444,
+    "longitude": 139.036388888,
+    "sitelinks": 91
+  },
+  {
+    "prefecture": "富山県",
+    "name": "久泉遺跡",
+    "latitude": 36.63575,
+    "longitude": 136.98975,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "富山県",
+    "name": "新庄城",
+    "latitude": 36.7021042,
+    "longitude": 137.2496262,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "富山県",
+    "name": "本江遺跡",
+    "latitude": 36.7261404,
+    "longitude": 137.3751973,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "石川県",
+    "name": "金沢市",
+    "latitude": 36.561055555,
+    "longitude": 136.6565,
+    "sitelinks": 90
+  },
+  {
+    "prefecture": "石川県",
+    "name": "能登半島地震",
+    "latitude": 37.498,
+    "longitude": 137.242,
+    "sitelinks": 45
+  },
+  {
+    "prefecture": "石川県",
+    "name": "小松市",
+    "latitude": 36.311111111,
+    "longitude": 136.498333333,
+    "sitelinks": 42
+  },
+  {
+    "prefecture": "福井県",
+    "name": "大野城",
+    "latitude": 35.986588,
+    "longitude": 136.483042,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "福井県",
+    "name": "福井市",
+    "latitude": 36.064055555,
+    "longitude": 136.219583333,
+    "sitelinks": 65
+  },
+  {
+    "prefecture": "福井県",
+    "name": "小浜市",
+    "latitude": 35.495611111,
+    "longitude": 135.746611111,
+    "sitelinks": 47
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "宮沢中村遺跡",
+    "latitude": 35.593805555,
+    "longitude": 138.471888888,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "Q49509533",
+    "latitude": 35.479722222,
+    "longitude": 138.759166666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "甲府市",
+    "latitude": 35.662138888,
+    "longitude": 138.568222222,
+    "sitelinks": 65
+  },
+  {
+    "prefecture": "長野県",
+    "name": "鳥羽山洞窟",
+    "latitude": 36.298333,
+    "longitude": 138.258056,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "長野県",
+    "name": "みはらしファーム",
+    "latitude": 35.882972,
+    "longitude": 137.920389,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "長野県",
+    "name": "杉久保遺跡",
+    "latitude": 36.836472222,
+    "longitude": 138.21125,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "弥勒寺西遺跡",
+    "latitude": 35.505638888,
+    "longitude": 136.890166666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "高山市風土記の丘学習センター",
+    "latitude": 36.160611111,
+    "longitude": 137.222666666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "岐阜県文化財保護センター",
+    "latitude": 35.478083333,
+    "longitude": 136.8,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "富士山",
+    "latitude": 35.360555555,
+    "longitude": 138.7275,
+    "sitelinks": 143
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "ヤマハ・コミュニケーションプラザ",
+    "latitude": 34.722944,
+    "longitude": 137.87675,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "大鹿窪遺跡",
+    "latitude": 35.248667,
+    "longitude": 138.562056,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "みどりが丘公園",
+    "latitude": 35.086556,
+    "longitude": 137.01125,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "三好公園",
+    "latitude": 35.09269444,
+    "longitude": 137.08805556,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "知北平和公園",
+    "latitude": 34.978239,
+    "longitude": 136.922733,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "三重県",
+    "name": "斎宮跡",
+    "latitude": 34.541207,
+    "longitude": 136.616836,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "三重県",
+    "name": "伊勢やすらぎ公園",
+    "latitude": 34.476611,
+    "longitude": 136.697,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "三重県",
+    "name": "おばたけ遺跡",
+    "latitude": 34.524,
+    "longitude": 136.898305555,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "滋賀県希望が丘文化公園",
+    "latitude": 35.058333333,
+    "longitude": 136.052222222,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "東谷遺跡",
+    "latitude": 35.393611111,
+    "longitude": 136.006111111,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "大津市",
+    "latitude": 35.0177852,
+    "longitude": 135.8548122,
+    "sitelinks": 69
+  },
+  {
+    "prefecture": "京都府",
+    "name": "笑路城",
+    "latitude": 34.969861111,
+    "longitude": 135.520472222,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "京都府",
+    "name": "京都市",
+    "latitude": 35.011611111,
+    "longitude": 135.768111111,
+    "sitelinks": 257
+  },
+  {
+    "prefecture": "京都府",
+    "name": "京都大学",
+    "latitude": 35.026212,
+    "longitude": 135.780842,
+    "sitelinks": 84
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "深北緑地",
+    "latitude": 34.725475,
+    "longitude": 135.628397222,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "穂積遺跡",
+    "latitude": 34.762777777,
+    "longitude": 135.474361111,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "七ノ坪遺跡",
+    "latitude": 34.498611111,
+    "longitude": 135.421694444,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "兵庫県立甲山森林公園",
+    "latitude": 34.772389,
+    "longitude": 135.334556,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "うぐいす池公園",
+    "latitude": 34.903306,
+    "longitude": 135.389194,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "BE KOBE",
+    "latitude": 34.681278,
+    "longitude": 135.18925,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "坪井・大福遺跡",
+    "latitude": 34.520083333,
+    "longitude": 135.8175,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "大福遺跡",
+    "latitude": 34.517361111,
+    "longitude": 135.825305555,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "奈良市",
+    "latitude": 34.685,
+    "longitude": 135.804777777,
+    "sitelinks": 96
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "広城",
+    "latitude": 34.025277777,
+    "longitude": 135.186944444,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "紀美野町のかみふれあい公園",
+    "latitude": 34.1789621,
+    "longitude": 135.3475568,
+    "sitelinks": 0
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "海南市わんぱく公園",
+    "latitude": 34.1589743,
+    "longitude": 135.2342057,
+    "sitelinks": 0
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "鳥取市",
+    "latitude": 35.494388888,
+    "longitude": 134.221611111,
+    "sitelinks": 67
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "米子市",
+    "latitude": 35.428166666,
+    "longitude": 133.330888888,
+    "sitelinks": 55
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "境港市",
+    "latitude": 35.539611111,
+    "longitude": 133.231611111,
+    "sitelinks": 49
+  },
+  {
+    "prefecture": "島根県",
+    "name": "荒神谷遺跡",
+    "latitude": 35.3765,
+    "longitude": 132.852417,
+    "sitelinks": 3
+  },
+  {
+    "prefecture": "島根県",
+    "name": "女夫岩遺跡",
+    "latitude": 35.395194444,
+    "longitude": 132.90875,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "島根県",
+    "name": "荒島墳墓群",
+    "latitude": 35.429694444,
+    "longitude": 133.199777777,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "Washuzan Highland Sky Cycle",
+    "latitude": 34.4458432,
+    "longitude": 133.8003244,
+    "sitelinks": 0
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "岡山市",
+    "latitude": 34.655111111,
+    "longitude": 133.919583333,
+    "sitelinks": 83
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "倉敷市",
+    "latitude": 34.585083333,
+    "longitude": 133.772111111,
+    "sitelinks": 57
+  },
+  {
+    "prefecture": "広島県",
+    "name": "原爆の子の像",
+    "latitude": 34.394142,
+    "longitude": 132.452776,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "広島県",
+    "name": "丸屋城",
+    "latitude": 34.1944,
+    "longitude": 132.677966666,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "広島県",
+    "name": "広島市",
+    "latitude": 34.38525,
+    "longitude": 132.455305555,
+    "sitelinks": 157
+  },
+  {
+    "prefecture": "山口県",
+    "name": "Q49501950",
+    "latitude": 33.954166666,
+    "longitude": 130.930833333,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "山口県",
+    "name": "Q49534811",
+    "latitude": 33.946388888,
+    "longitude": 130.904166666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "山口県",
+    "name": "下関市",
+    "latitude": 33.957888888,
+    "longitude": 130.941333333,
+    "sitelinks": 66
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "入田瓦窯跡",
+    "latitude": 34.052861111,
+    "longitude": 134.457611111,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "鳴門ウチノ海総合公園",
+    "latitude": 34.210694444,
+    "longitude": 134.597166666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "徳島市",
+    "latitude": 34.070277777,
+    "longitude": 134.554944444,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "香川県",
+    "name": "高松市",
+    "latitude": 34.342805555,
+    "longitude": 134.046611111,
+    "sitelinks": 71
+  },
+  {
+    "prefecture": "香川県",
+    "name": "丸亀市",
+    "latitude": 34.289416666,
+    "longitude": 133.797611111,
+    "sitelinks": 50
+  },
+  {
+    "prefecture": "香川県",
+    "name": "さぬき市",
+    "latitude": 34.325305555,
+    "longitude": 134.172055555,
+    "sitelinks": 42
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "妙見山古墳",
+    "latitude": 34.058719,
+    "longitude": 132.930825,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "南楽園",
+    "latitude": 33.133305555,
+    "longitude": 132.504833333,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "藤山健康文化公園",
+    "latitude": 34.060944444,
+    "longitude": 132.930194444,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "高知県",
+    "name": "むろと廃校水族館",
+    "latitude": 33.326633,
+    "longitude": 134.19552,
+    "sitelinks": 4
+  },
+  {
+    "prefecture": "高知県",
+    "name": "高知市",
+    "latitude": 33.558833333,
+    "longitude": 133.531222222,
+    "sitelinks": 68
+  },
+  {
+    "prefecture": "高知県",
+    "name": "須崎市",
+    "latitude": 33.400722222,
+    "longitude": 133.282916666,
+    "sitelinks": 41
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "東平尾公園",
+    "latitude": 33.586888888,
+    "longitude": 130.463,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "Ashiya Kaihin Kōen",
+    "latitude": 33.892777777,
+    "longitude": 130.654722222,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "Chikuhō Ryokuchi",
+    "latitude": 33.658055555,
+    "longitude": 130.746388888,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "佐賀市",
+    "latitude": 33.2635,
+    "longitude": 130.300833333,
+    "sitelinks": 64
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "唐津市",
+    "latitude": 33.450083333,
+    "longitude": 129.96825,
+    "sitelinks": 47
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "伊万里市",
+    "latitude": 33.26475,
+    "longitude": 129.880805555,
+    "sitelinks": 41
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "西海橋公園",
+    "latitude": 33.050583333,
+    "longitude": 129.758583333,
+    "sitelinks": 2
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "平和のマント",
+    "latitude": 32.775965,
+    "longitude": 129.863107,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "長崎市",
+    "latitude": 32.749527777,
+    "longitude": 129.879638888,
+    "sitelinks": 145
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "熊本市",
+    "latitude": 32.803,
+    "longitude": 130.707861111,
+    "sitelinks": 90
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "阿蘇山",
+    "latitude": 32.885,
+    "longitude": 131.104166666,
+    "sitelinks": 48
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "水俣市",
+    "latitude": 32.211861111,
+    "longitude": 130.40875,
+    "sitelinks": 46
+  },
+  {
+    "prefecture": "大分県",
+    "name": "田井原遺跡",
+    "latitude": 32.901694444,
+    "longitude": 131.369,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "大分県",
+    "name": "大分市",
+    "latitude": 33.239555555,
+    "longitude": 131.609361111,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "大分県",
+    "name": "別府市",
+    "latitude": 33.285833333,
+    "longitude": 131.452777777,
+    "sitelinks": 61
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "玄武城",
+    "latitude": 32.776138888,
+    "longitude": 131.290916666,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "宮崎市",
+    "latitude": 31.907722222,
+    "longitude": 131.420194444,
+    "sitelinks": 67
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "都城市",
+    "latitude": 31.7195,
+    "longitude": 131.061694444,
+    "sitelinks": 45
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "Q49509149",
+    "latitude": 31.179166666,
+    "longitude": 130.547777777,
+    "sitelinks": 1
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "鹿児島市",
+    "latitude": 31.596805555,
+    "longitude": 130.557138888,
+    "sitelinks": 90
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "南西諸島",
+    "latitude": 26.332808333,
+    "longitude": 127.749022222,
+    "sitelinks": 75
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "那覇市",
+    "latitude": 26.212222222,
+    "longitude": 127.679166666,
+    "sitelinks": 89
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "沖縄本島",
+    "latitude": 26.483333333,
+    "longitude": 127.95,
+    "sitelinks": 89
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "沖縄戦",
+    "latitude": 26.5,
+    "longitude": 128.0,
+    "sitelinks": 58
+  }
+]

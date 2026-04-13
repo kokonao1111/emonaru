@@ -1,0 +1,989 @@
+[
+  {
+    "prefecture": "北海道",
+    "name": "五稜郭",
+    "latitude": 41.796944,
+    "longitude": 140.756944,
+    "sitelinks": 26
+  },
+  {
+    "prefecture": "北海道",
+    "name": "津軽海峡",
+    "latitude": 41.33333,
+    "longitude": 140.33333,
+    "sitelinks": 66
+  },
+  {
+    "prefecture": "北海道",
+    "name": "青函トンネル",
+    "latitude": 41.3157,
+    "longitude": 140.3351,
+    "sitelinks": 59
+  },
+  {
+    "prefecture": "青森県",
+    "name": "三内丸山遺跡",
+    "latitude": 40.81166667,
+    "longitude": 140.69555556,
+    "sitelinks": 13
+  },
+  {
+    "prefecture": "青森県",
+    "name": "東北地方",
+    "latitude": 38.9,
+    "longitude": 140.67,
+    "sitelinks": 96
+  },
+  {
+    "prefecture": "青森県",
+    "name": "津軽海峡",
+    "latitude": 41.33333,
+    "longitude": 140.33333,
+    "sitelinks": 66
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "東北地方",
+    "latitude": 38.9,
+    "longitude": 140.67,
+    "sitelinks": 96
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "平泉",
+    "latitude": 38.98861111,
+    "longitude": 141.11027778,
+    "sitelinks": 27
+  },
+  {
+    "prefecture": "岩手県",
+    "name": "岩手山",
+    "latitude": 39.8525,
+    "longitude": 141.00111111,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "東北地方",
+    "latitude": 38.9,
+    "longitude": 140.67,
+    "sitelinks": 96
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "東北大学",
+    "latitude": 38.254166666,
+    "longitude": 140.873611111,
+    "sitelinks": 43
+  },
+  {
+    "prefecture": "宮城県",
+    "name": "宮城スタジアム",
+    "latitude": 38.335391666,
+    "longitude": 140.950419444,
+    "sitelinks": 31
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "東北地方",
+    "latitude": 38.9,
+    "longitude": 140.67,
+    "sitelinks": 96
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "白神山地",
+    "latitude": 40.450277777,
+    "longitude": 140.198611111,
+    "sitelinks": 52
+  },
+  {
+    "prefecture": "秋田県",
+    "name": "十和田湖",
+    "latitude": 40.466666666,
+    "longitude": 140.866666666,
+    "sitelinks": 25
+  },
+  {
+    "prefecture": "山形県",
+    "name": "東北地方",
+    "latitude": 38.9,
+    "longitude": 140.67,
+    "sitelinks": 96
+  },
+  {
+    "prefecture": "山形県",
+    "name": "最上川",
+    "latitude": 38.922222222,
+    "longitude": 139.809166666,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "山形県",
+    "name": "奥羽山脈",
+    "latitude": 39.85,
+    "longitude": 141.0,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "福島県",
+    "name": "東北地方",
+    "latitude": 38.9,
+    "longitude": 140.67,
+    "sitelinks": 96
+  },
+  {
+    "prefecture": "福島県",
+    "name": "福島第一原子力発電所事故",
+    "latitude": 37.421388888,
+    "longitude": 141.0325,
+    "sitelinks": 73
+  },
+  {
+    "prefecture": "福島県",
+    "name": "福島第一原子力発電所",
+    "latitude": 37.42138889,
+    "longitude": 141.0325,
+    "sitelinks": 59
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "利根川",
+    "latitude": 35.745972222,
+    "longitude": 140.852055555,
+    "sitelinks": 35
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "茨城県立カシマサッカースタジアム",
+    "latitude": 35.991744,
+    "longitude": 140.640525,
+    "sitelinks": 32
+  },
+  {
+    "prefecture": "茨城県",
+    "name": "筑波大学",
+    "latitude": 36.103675895,
+    "longitude": 140.1020979,
+    "sitelinks": 32
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "利根川",
+    "latitude": 35.745972222,
+    "longitude": 140.852055555,
+    "sitelinks": 35
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "華厳滝",
+    "latitude": 36.737888888,
+    "longitude": 139.502,
+    "sitelinks": 34
+  },
+  {
+    "prefecture": "栃木県",
+    "name": "関東平野",
+    "latitude": 36.0,
+    "longitude": 140.0,
+    "sitelinks": 30
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "浅間山",
+    "latitude": 36.4,
+    "longitude": 138.516666666,
+    "sitelinks": 52
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "信濃川",
+    "latitude": 37.388056,
+    "longitude": 138.810833,
+    "sitelinks": 41
+  },
+  {
+    "prefecture": "群馬県",
+    "name": "利根川",
+    "latitude": 35.745972222,
+    "longitude": 140.852055555,
+    "sitelinks": 35
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "さいたまスーパーアリーナ",
+    "latitude": 35.894889,
+    "longitude": 139.630833,
+    "sitelinks": 26
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "埼玉スタジアム2002",
+    "latitude": 35.903142,
+    "longitude": 139.717492,
+    "sitelinks": 37
+  },
+  {
+    "prefecture": "埼玉県",
+    "name": "利根川",
+    "latitude": 35.745972222,
+    "longitude": 140.852055555,
+    "sitelinks": 35
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "東京ディズニーランド",
+    "latitude": 35.632777777,
+    "longitude": 139.880555555,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "幕張メッセ",
+    "latitude": 35.648333,
+    "longitude": 140.034722,
+    "sitelinks": 18
+  },
+  {
+    "prefecture": "千葉県",
+    "name": "成田国際空港",
+    "latitude": 35.7649,
+    "longitude": 140.38845,
+    "sitelinks": 67
+  },
+  {
+    "prefecture": "東京都",
+    "name": "東京タワー",
+    "latitude": 35.658611111,
+    "longitude": 139.745555555,
+    "sitelinks": 68
+  },
+  {
+    "prefecture": "東京都",
+    "name": "日本武道館",
+    "latitude": 35.693333,
+    "longitude": 139.75,
+    "sitelinks": 38
+  },
+  {
+    "prefecture": "東京都",
+    "name": "モード学園コクーンタワー",
+    "latitude": 35.691666666,
+    "longitude": 139.696944444,
+    "sitelinks": 83
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "東京湾",
+    "latitude": 35.416666666,
+    "longitude": 139.783333333,
+    "sitelinks": 56
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "関東地震",
+    "latitude": 35.33,
+    "longitude": 139.135,
+    "sitelinks": 50
+  },
+  {
+    "prefecture": "神奈川県",
+    "name": "横浜国際総合競技場",
+    "latitude": 35.510044,
+    "longitude": 139.606247,
+    "sitelinks": 43
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "日本アルプス",
+    "latitude": 36.0,
+    "longitude": 137.0,
+    "sitelinks": 44
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "信濃川",
+    "latitude": 37.388056,
+    "longitude": 138.810833,
+    "sitelinks": 41
+  },
+  {
+    "prefecture": "新潟県",
+    "name": "Tōkamachi-shi",
+    "latitude": 37.127527777,
+    "longitude": 138.755722222,
+    "sitelinks": 40
+  },
+  {
+    "prefecture": "富山県",
+    "name": "日本アルプス",
+    "latitude": 36.0,
+    "longitude": 137.0,
+    "sitelinks": 44
+  },
+  {
+    "prefecture": "富山県",
+    "name": "白川郷・五箇山の合掌造り集落",
+    "latitude": 36.25694444,
+    "longitude": 136.90638889,
+    "sitelinks": 40
+  },
+  {
+    "prefecture": "富山県",
+    "name": "能登半島",
+    "latitude": 37.2,
+    "longitude": 136.9,
+    "sitelinks": 33
+  },
+  {
+    "prefecture": "石川県",
+    "name": "能登半島地震",
+    "latitude": 37.498,
+    "longitude": 137.242,
+    "sitelinks": 45
+  },
+  {
+    "prefecture": "石川県",
+    "name": "能登半島",
+    "latitude": 37.2,
+    "longitude": 136.9,
+    "sitelinks": 33
+  },
+  {
+    "prefecture": "石川県",
+    "name": "白山",
+    "latitude": 36.1,
+    "longitude": 136.5,
+    "sitelinks": 32
+  },
+  {
+    "prefecture": "福井県",
+    "name": "一乗谷朝倉氏遺跡",
+    "latitude": 35.9995,
+    "longitude": 136.296,
+    "sitelinks": 15
+  },
+  {
+    "prefecture": "福井県",
+    "name": "大野城",
+    "latitude": 35.986588,
+    "longitude": 136.483042,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "福井県",
+    "name": "一筆啓上 日本一短い手紙の館",
+    "latitude": 36.153656,
+    "longitude": 136.274833,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "富士山",
+    "latitude": 35.360555555,
+    "longitude": 138.7275,
+    "sitelinks": 143
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "新倉山浅間公園",
+    "latitude": 35.50119444,
+    "longitude": 138.80138889,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "山梨県",
+    "name": "青木ヶ原",
+    "latitude": 35.473611111,
+    "longitude": 138.64,
+    "sitelinks": 50
+  },
+  {
+    "prefecture": "長野県",
+    "name": "地獄谷野猿公苑",
+    "latitude": 36.732797222,
+    "longitude": 138.4627,
+    "sitelinks": 19
+  },
+  {
+    "prefecture": "長野県",
+    "name": "上高地",
+    "latitude": 36.246969444,
+    "longitude": 137.633333333,
+    "sitelinks": 18
+  },
+  {
+    "prefecture": "長野県",
+    "name": "志賀高原",
+    "latitude": 36.7,
+    "longitude": 138.491666666,
+    "sitelinks": 17
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "日本アルプス",
+    "latitude": 36.0,
+    "longitude": 137.0,
+    "sitelinks": 44
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "御嶽山",
+    "latitude": 35.892777777,
+    "longitude": 137.480277777,
+    "sitelinks": 42
+  },
+  {
+    "prefecture": "岐阜県",
+    "name": "白川郷・五箇山の合掌造り集落",
+    "latitude": 36.25694444,
+    "longitude": 136.90638889,
+    "sitelinks": 40
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "富士山",
+    "latitude": 35.360555555,
+    "longitude": 138.7275,
+    "sitelinks": 143
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "日本アルプス",
+    "latitude": 36.0,
+    "longitude": 137.0,
+    "sitelinks": 44
+  },
+  {
+    "prefecture": "静岡県",
+    "name": "富士スピードウェイ",
+    "latitude": 35.371666666,
+    "longitude": 138.926666666,
+    "sitelinks": 40
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "中部国際空港",
+    "latitude": 34.858333333,
+    "longitude": 136.805277777,
+    "sitelinks": 46
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "名古屋大学",
+    "latitude": 35.1525,
+    "longitude": 136.968611111,
+    "sitelinks": 44
+  },
+  {
+    "prefecture": "愛知県",
+    "name": "名古屋城",
+    "latitude": 35.185555555,
+    "longitude": 136.898611111,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "三重県",
+    "name": "夫婦岩",
+    "latitude": 34.509444444,
+    "longitude": 136.788333333,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "三重県",
+    "name": "鳥羽水族館",
+    "latitude": 34.4817,
+    "longitude": 136.846,
+    "sitelinks": 10
+  },
+  {
+    "prefecture": "三重県",
+    "name": "鈴鹿サーキット",
+    "latitude": 34.841666666,
+    "longitude": 136.538888888,
+    "sitelinks": 44
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "琵琶湖",
+    "latitude": 35.255,
+    "longitude": 136.08,
+    "sitelinks": 66
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "比叡山",
+    "latitude": 35.066666666,
+    "longitude": 135.838333333,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "滋賀県",
+    "name": "古都京都の文化財",
+    "latitude": 35.060278,
+    "longitude": 135.752778,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "京都府",
+    "name": "長岡京",
+    "latitude": 34.943204,
+    "longitude": 135.703232,
+    "sitelinks": 24
+  },
+  {
+    "prefecture": "京都府",
+    "name": "京都大学",
+    "latitude": 35.026212,
+    "longitude": 135.780842,
+    "sitelinks": 84
+  },
+  {
+    "prefecture": "京都府",
+    "name": "清水寺",
+    "latitude": 34.994830555,
+    "longitude": 135.785002777,
+    "sitelinks": 77
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "海遊館",
+    "latitude": 34.654472222,
+    "longitude": 135.428888888,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "大阪城ホール",
+    "latitude": 34.689444,
+    "longitude": 135.529722,
+    "sitelinks": 17
+  },
+  {
+    "prefecture": "大阪府",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "鳴門の渦潮",
+    "latitude": 34.238333333,
+    "longitude": 134.651388888,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "姫路城",
+    "latitude": 34.839444444,
+    "longitude": 134.693611111,
+    "sitelinks": 73
+  },
+  {
+    "prefecture": "兵庫県",
+    "name": "明石海峡大橋",
+    "latitude": 34.616388888,
+    "longitude": 135.020277777,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "飛鳥京",
+    "latitude": 34.48222222,
+    "longitude": 135.81305556,
+    "sitelinks": 19
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "高松塚古墳",
+    "latitude": 34.46222222,
+    "longitude": 135.80647222,
+    "sitelinks": 11
+  },
+  {
+    "prefecture": "奈良県",
+    "name": "安倍晋三銃撃事件",
+    "latitude": 34.694055555,
+    "longitude": 135.783916666,
+    "sitelinks": 57
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "トルコ記念館",
+    "latitude": 33.469167,
+    "longitude": 135.858611,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "和歌山県",
+    "name": "高野山",
+    "latitude": 34.217777777,
+    "longitude": 135.583333333,
+    "sitelinks": 37
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "鳥取砂丘",
+    "latitude": 35.54,
+    "longitude": 134.2275,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "山陰海岸国立公園",
+    "latitude": 35.649573257,
+    "longitude": 134.602446356,
+    "sitelinks": 19
+  },
+  {
+    "prefecture": "鳥取県",
+    "name": "大山隠岐国立公園",
+    "latitude": 35.45,
+    "longitude": 133.766666666,
+    "sitelinks": 19
+  },
+  {
+    "prefecture": "島根県",
+    "name": "石見銀山",
+    "latitude": 35.107222,
+    "longitude": 132.4375,
+    "sitelinks": 36
+  },
+  {
+    "prefecture": "島根県",
+    "name": "竹島",
+    "latitude": 37.241666666,
+    "longitude": 131.866666666,
+    "sitelinks": 52
+  },
+  {
+    "prefecture": "島根県",
+    "name": "隠岐諸島",
+    "latitude": 36.154722222,
+    "longitude": 133.1525,
+    "sitelinks": 38
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "岡山城",
+    "latitude": 34.665277777,
+    "longitude": 133.936111111,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "岡山県",
+    "name": "岡山空港",
+    "latitude": 34.756944444,
+    "longitude": 133.855277777,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "広島県",
+    "name": "広島城",
+    "latitude": 34.40275,
+    "longitude": 132.459027777,
+    "sitelinks": 31
+  },
+  {
+    "prefecture": "広島県",
+    "name": "原爆の子の像",
+    "latitude": 34.394142,
+    "longitude": 132.452776,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "広島県",
+    "name": "広島県立総合体育館",
+    "latitude": 34.399444,
+    "longitude": 132.455278,
+    "sitelinks": 12
+  },
+  {
+    "prefecture": "山口県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "山口県",
+    "name": "関門海峡",
+    "latitude": 33.946944444,
+    "longitude": 130.946666666,
+    "sitelinks": 34
+  },
+  {
+    "prefecture": "山口県",
+    "name": "錦帯橋",
+    "latitude": 34.167603,
+    "longitude": 132.178367,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "鳴門の渦潮",
+    "latitude": 34.238333333,
+    "longitude": 134.651388888,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "徳島県",
+    "name": "鳴門海峡",
+    "latitude": 34.23761,
+    "longitude": 134.65267,
+    "sitelinks": 26
+  },
+  {
+    "prefecture": "香川県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "香川県",
+    "name": "小豆島",
+    "latitude": 34.513611111,
+    "longitude": 134.285555555,
+    "sitelinks": 26
+  },
+  {
+    "prefecture": "香川県",
+    "name": "吉野川",
+    "latitude": 34.078333333,
+    "longitude": 134.600833333,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "青島",
+    "latitude": 33.736111,
+    "longitude": 132.487222,
+    "sitelinks": 26
+  },
+  {
+    "prefecture": "愛媛県",
+    "name": "松山空港",
+    "latitude": 33.827222222,
+    "longitude": 132.699722222,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "高知県",
+    "name": "吉野川",
+    "latitude": 34.078333333,
+    "longitude": 134.600833333,
+    "sitelinks": 22
+  },
+  {
+    "prefecture": "高知県",
+    "name": "四万十川",
+    "latitude": 32.933272222,
+    "longitude": 132.996280555,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "高知県",
+    "name": "高知城",
+    "latitude": 33.561111111,
+    "longitude": 133.531388888,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "九州大学",
+    "latitude": 33.595722222,
+    "longitude": 130.217777777,
+    "sitelinks": 35
+  },
+  {
+    "prefecture": "福岡県",
+    "name": "関門海峡",
+    "latitude": 33.946944444,
+    "longitude": 130.946666666,
+    "sitelinks": 34
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "吉野ヶ里遺跡",
+    "latitude": 33.325,
+    "longitude": 130.384,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "唐津城",
+    "latitude": 33.453539,
+    "longitude": 129.978194,
+    "sitelinks": 9
+  },
+  {
+    "prefecture": "佐賀県",
+    "name": "有明海",
+    "latitude": 32.906944444,
+    "longitude": 130.372222222,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "グラバー園",
+    "latitude": 32.73444444,
+    "longitude": 129.86888889,
+    "sitelinks": 14
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "九十九島",
+    "latitude": 33.16666667,
+    "longitude": 129.6,
+    "sitelinks": 8
+  },
+  {
+    "prefecture": "長崎県",
+    "name": "対馬",
+    "latitude": 34.416666666,
+    "longitude": 129.333333333,
+    "sitelinks": 52
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "阿蘇山",
+    "latitude": 32.885,
+    "longitude": 131.104166666,
+    "sitelinks": 48
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "熊本城",
+    "latitude": 32.806063888,
+    "longitude": 130.705972222,
+    "sitelinks": 38
+  },
+  {
+    "prefecture": "熊本県",
+    "name": "熊本地震",
+    "latitude": 32.849,
+    "longitude": 130.635,
+    "sitelinks": 36
+  },
+  {
+    "prefecture": "大分県",
+    "name": "瀬戸内海",
+    "latitude": 34.166666666,
+    "longitude": 133.333333333,
+    "sitelinks": 70
+  },
+  {
+    "prefecture": "大分県",
+    "name": "大分スポーツ公園総合競技場",
+    "latitude": 33.200556,
+    "longitude": 131.6575,
+    "sitelinks": 27
+  },
+  {
+    "prefecture": "大分県",
+    "name": "阿蘇くじゅう国立公園",
+    "latitude": 32.885,
+    "longitude": 131.10416667,
+    "sitelinks": 23
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "新燃岳",
+    "latitude": 31.9096,
+    "longitude": 130.88642,
+    "sitelinks": 27
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "宮崎空港",
+    "latitude": 31.877222222,
+    "longitude": 131.448611111,
+    "sitelinks": 24
+  },
+  {
+    "prefecture": "宮崎県",
+    "name": "霧島錦江湾国立公園",
+    "latitude": 31.2629,
+    "longitude": 130.706,
+    "sitelinks": 20
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "南西諸島",
+    "latitude": 26.332808333,
+    "longitude": 127.749022222,
+    "sitelinks": 75
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "屋久島",
+    "latitude": 30.358611111,
+    "longitude": 130.528611111,
+    "sitelinks": 60
+  },
+  {
+    "prefecture": "鹿児島県",
+    "name": "桜島",
+    "latitude": 31.580555555,
+    "longitude": 130.658055555,
+    "sitelinks": 49
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "首里城",
+    "latitude": 26.217030555,
+    "longitude": 127.719475,
+    "sitelinks": 39
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "沖縄美ら海水族館",
+    "latitude": 26.69438889,
+    "longitude": 127.87794444,
+    "sitelinks": 21
+  },
+  {
+    "prefecture": "沖縄県",
+    "name": "沖縄サントリーアリーナ",
+    "latitude": 26.33277778,
+    "longitude": 127.78363889,
+    "sitelinks": 12
+  }
+]

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.nao.emotionapp.refresh</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+		<string>fetch</string>
+		<string>processing</string>
+		<string>location</string>
+	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>プロフィール画像を設定するために写真ライブラリへのアクセスが必要です</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>写真を保存するために写真ライブラリへのアクセスが必要です</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.nao.emotionapp</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>emotionapp</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
