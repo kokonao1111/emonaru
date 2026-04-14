@@ -1,6 +1,8 @@
-# EmotionSNS
+# エモナル
 
-A textless social app.
+このアプリは自分の感情をその場で投稿共有することができるIOSアプリです
+見えない感情を可視化することでいつもと違う新しいSNSになっています
+アップルストアに公開中です
 
 Users share emotions without words.
 There are no profiles, no comments, no likes, and no followers.
